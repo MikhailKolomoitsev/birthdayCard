@@ -1424,12 +1424,32 @@
 }
 
 .size-pic {
+  max-width: 140px;
+}
+.size-pic1 {
   max-width: 100px;
+}
+.size-pic4 {
+  max-width: 200px;
 }
 .next_pic1 {
   position: absolute;
-  top: 10px;
-  right: 400px;
+  top: 200px;
+  right: 300px;
 }
 .next_pic2 {
+  position: absolute;
+  top: 10px;
+  right: 300px;
+}
+
+.next_pic3 {
+  position: absolute;
+  top: 5px;
+  left: 5px;
+}
+.next_pic4 {
+  position: absolute;
+  top: 270px;
+  left: 5px;
 }
