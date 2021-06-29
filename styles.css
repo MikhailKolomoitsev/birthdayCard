@@ -810,4 +810,31 @@ animation: choco 10.2s ease infinite;
     position: absolute;
     right: 0px;
     top: 0px;
+    color: aquamarine;
+    font-family: 'Akaya Kanadaka', cursive;
+}
+.right-side_pic{
+    height: 700px;
+    margin-right: 50px;
+}
+
+.certificate{
+    margin-right: 20px;
+    padding: 20px;
+    font-family: 'Akaya Kanadaka', cursive;
+}
+
+.certificate_img{
+    max-width: 850px;
+}
+
+.list{
+    list-style-type: none;
+}
+.list-item{
+
+    font-size: 30px;
+    color: lightseagreen;
+    display: block;
+    padding: 15px;
 }
