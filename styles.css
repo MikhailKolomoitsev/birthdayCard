@@ -1429,8 +1429,14 @@
 .size-pic1 {
   max-width: 100px;
 }
+.size-pic3-2 {
+  max-width: 201px;
+}
 .size-pic4 {
   max-width: 201px;
+}
+.size-pic5 {
+  max-width: 100px;
 }
 .next_pic1 {
   position: absolute;
@@ -1452,4 +1458,25 @@
   position: absolute;
   top: 270px;
   left: 5px;
+}
+.next_pic5 {
+  position: absolute;
+  max-height: 30px;
+  top: 340px;
+  left: 550px;
+}
+.next_pic3-1 {
+  position: absolute;
+  max-height: 30px;
+  top: 300px;
+  left: 200px;
+}
+.next_pic3-2 {
+  position: absolute;
+  max-height: 30px;
+  top: 270px;
+  left: 250px;
+}
+.font-family {
+  font-family: "Akaya Kanadaka", cursive;
 }
