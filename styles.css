@@ -1426,8 +1426,11 @@
 .size-pic {
   max-width: 140px;
 }
-.size-pic1 {
+.size-pic_cake {
   max-width: 100px;
+}
+.size-pic1 {
+  max-width: 300px;
 }
 .size-pic3-2 {
   max-width: 201px;
@@ -1451,8 +1454,8 @@
 
 .next_pic3 {
   position: absolute;
-  top: 5px;
-  left: 5px;
+  top: -30px;
+  left: 1px;
 }
 .next_pic4 {
   position: absolute;
@@ -1469,13 +1472,13 @@
   position: absolute;
   max-height: 30px;
   top: 300px;
-  left: 200px;
+  left: 270px;
 }
 .next_pic3-2 {
   position: absolute;
   max-height: 30px;
   top: 270px;
-  left: 250px;
+  left: 320px;
 }
 .font-family {
   font-family: "Akaya Kanadaka", cursive;
