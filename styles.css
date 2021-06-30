@@ -1391,8 +1391,11 @@
   position: absolute;
   right: 0px;
   top: 0px;
-  color: aquamarine;
+  color: lightcoral;
   font-family: "Akaya Kanadaka", cursive;
+}
+.title_happy_Bday {
+  font-size: 32px;
 }
 .right-side_pic {
   max-width: 300px;
